@@ -1,0 +1,10 @@
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\bin\Debug\salva colore pulsante.exe.config
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\bin\Debug\salva colore pulsante.exe
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\bin\Debug\salva colore pulsante.pdb
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\obj\Debug\salva colore pulsante.csprojAssemblyReference.cache
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\obj\Debug\salva_colore_pulsante.Form1.resources
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\obj\Debug\salva_colore_pulsante.Properties.Resources.resources
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\obj\Debug\salva colore pulsante.csproj.GenerateResource.cache
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\obj\Debug\salva colore pulsante.csproj.CoreCompileInputs.cache
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\obj\Debug\salva colore pulsante.exe
+E:\scuola\3ENA\sistemi\programmi C#\salva colore pulsante\salva colore pulsante\obj\Debug\salva colore pulsante.pdb
